@@ -1,0 +1,1 @@
+In this folder, we are going to do 17 scripts that will help us to understan how the shell works and how to use it.
